@@ -14,7 +14,7 @@
 
 <div align="left">
    <p>
-     💻 I'm currently learning: <strong>Java and Spring </strong> 
+     💻 I'm currently learning: <strong>Java</strong> 
    </p> 
    
    <p>
@@ -25,8 +25,8 @@
      📫 You can find me here: ⤵️
    </p>
 
-  <a href="https://www.linkedin.com/in/ana-clara-gomes-1a27b6311/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=c893eb&link=https://www.linkedin.com/in/ana-clara-gomes-1a27b6311/" /></a>
+  <a href="https://www.linkedin.com/in/anac-gs" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=c893eb&link=https://www.linkedin.com/in/anac-gs/" /></a>
 
 </div>
 
@@ -48,6 +48,3 @@
 </div>
 
 ##
-<div align="center">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Pandor4b&theme=discord&margin-w=3&margin-h=15"/>
-</div>
