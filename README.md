@@ -14,7 +14,7 @@
 
 <div align="left">
    <p>
-     💻 I'm currently learning: <strong>Java</strong> 
+     💻 I'm currently learning: <strong>Java, mySQL</strong> 
    </p> 
    
    <p>
